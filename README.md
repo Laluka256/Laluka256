@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Laluka256
-- 👀 I’m interested in Games 
+- 👀 I’m interested in Games and Programming
 - 🌱 I’m currently learning Unity, UE4, C# and C++
 - 📫 How to reach me:
 - - Discord: Laluka#0917
